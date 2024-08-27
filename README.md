@@ -87,7 +87,8 @@ For any inquiries or feedback, feel free to reach out:
 
 Your Name: ThamizhArasan JS
 GitHub: https://github.com/ThamizhArasanJS200357
-Team Members
+
+### Team Members
 Name: [backend] - https://github.com/ThamizhArasanJS200357
 Team Member 1: [Frontend] -https://github.com/Sharmila200444
 
