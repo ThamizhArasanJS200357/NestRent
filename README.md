@@ -10,7 +10,6 @@
 - [Screenshots](#screenshots)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
