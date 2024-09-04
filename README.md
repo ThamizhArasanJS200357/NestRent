@@ -67,7 +67,7 @@ PORT=3001
 ```bash
 npm run dev
 ```
-The application should now be running on http://localhost:5000.
+The application should now be running on http://localhost:3001.
 
 ### Usage
 Register/Login: Create an account or log in with your credentials.
