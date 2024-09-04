@@ -60,7 +60,7 @@ Create a .env file in the root directory and add the following variables:
 ```bash
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-PORT=5000
+PORT=3001
 ```
 
 ### Running the Application
